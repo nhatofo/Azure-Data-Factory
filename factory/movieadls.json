@@ -1,0 +1,9 @@
+{
+	"name": "movieadls",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d90b0f0a-f20f-4ee7-b554-fc68f0620430",
+		"tenantId": "cddd94b5-17fe-42b7-a006-af4141211fe9"
+	}
+}
