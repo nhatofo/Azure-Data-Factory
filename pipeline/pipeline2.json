@@ -13,7 +13,13 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": []
+				"userProperties": [],
+				"typeProperties": {
+					"notebookPath": "/adftutorial/mynotebook",
+					"baseParameters": {
+						"name": "string"
+					}
+				}
 			}
 		],
 		"annotations": []
